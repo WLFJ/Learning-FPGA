@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/yveswong/ip_ram/ip_ram.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/yveswong/ip_ram/ip_ram.srcs/sim_1/new/tb_ip_ram.v,1681971020,verilog,,,,tb_ip_ram,,,,,,,,
+/home/yveswong/ip_ram/ip_ram.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1681972109,verilog,,/home/yveswong/ip_ram/ip_ram.srcs/sources_1/new/ip_ram.v,,blk_mem_gen_0,,,,,,,,
+/home/yveswong/ip_ram/ip_ram.srcs/sources_1/new/ip_ram.v,1681972454,verilog,,/home/yveswong/ip_ram/ip_ram.srcs/sources_1/new/ram_rw.v,,ip_ram,,,,,,,,
+/home/yveswong/ip_ram/ip_ram.srcs/sources_1/new/ram_rw.v,1681970510,verilog,,/home/yveswong/ip_ram/ip_ram.srcs/sim_1/new/tb_ip_ram.v,,ram_rw,,,,,,,,

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_ip_ram_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_ip_ram" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="580690000fs"></ZoomStartTime>
+      <ZoomEndTime time="1388443585fs"></ZoomEndTime>
+      <Cursor1Time time="871715000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject type="logic" fp_name="/tb_ip_ram/sys_clk">
+      <obj_property name="ElementShortName">sys_clk</obj_property>
+      <obj_property name="ObjectShortName">sys_clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_ip_ram/sys_rst_n">
+      <obj_property name="ElementShortName">sys_rst_n</obj_property>
+      <obj_property name="ObjectShortName">sys_rst_n</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_ip_ram/u_ip_ram/u_ram_rw/ram_en">
+      <obj_property name="ElementShortName">ram_en</obj_property>
+      <obj_property name="ObjectShortName">ram_en</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_ip_ram/u_ip_ram/u_ram_rw/ram_wea">
+      <obj_property name="ElementShortName">ram_wea</obj_property>
+      <obj_property name="ObjectShortName">ram_wea</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_ip_ram/u_ip_ram/u_ram_rw/ram_addr">
+      <obj_property name="ElementShortName">ram_addr[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_addr[4:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_ip_ram/u_ip_ram/u_ram_rw/ram_wr_data">
+      <obj_property name="ElementShortName">ram_wr_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_wr_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_ip_ram/u_ip_ram/u_ram_rw/ram_rd_data">
+      <obj_property name="ElementShortName">ram_rd_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ram_rd_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/tb_ip_ram/u_ip_ram/u_ram_rw/rw_cnt">
+      <obj_property name="ElementShortName">rw_cnt[5:0]</obj_property>
+      <obj_property name="ObjectShortName">rw_cnt[5:0]</obj_property>
+   </wvobject>
+</wave_config>

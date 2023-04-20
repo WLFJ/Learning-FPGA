@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:/home/yveswong/ip_ram/ip_ram.srcs/constrs_1/new/ip_ram.xdc rfile:../../../ip_ram.srcs/constrs_1/new/ip_ram.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN U18 IOSTANDARD LVCMOS33} [get_ports sys_clk]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property -dict {PACKAGE_PIN N16 IOSTANDARD LVCMOS33} [get_ports sys_rst_n]

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Apr 19 15:24:55 2023
+# Process ID: 69706
+# Current directory: /home/yveswong/breath_led/breath_led.runs/synth_1
+# Command line: vivado -log breath_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source breath_led.tcl
+# Log file: /home/yveswong/breath_led/breath_led.runs/synth_1/breath_led.vds
+# Journal file: /home/yveswong/breath_led/breath_led.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source breath_led.tcl -notrace
