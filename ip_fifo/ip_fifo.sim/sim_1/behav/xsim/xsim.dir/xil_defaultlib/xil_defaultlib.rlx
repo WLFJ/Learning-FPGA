@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sim_1/new/tb_ip_fifo.v,1682134552,verilog,,,,tb_ip_fifo,,,,,,,,
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1682131062,verilog,,/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/new/fifo_rd.v,,fifo_generator_0,,,,,,,,
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/ip/ila_0/sim/ila_0.v,1682131915,verilog,,/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,,ila_0,,,,,,,,
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/new/fifo_rd.v,1682135195,verilog,,/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/new/fifo_wr.v,,fifo_rd,,,,,,,,
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/new/fifo_wr.v,1682133457,verilog,,/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/new/ip_fifo.v,,fifo_wr,,,,,,,,
+/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sources_1/new/ip_fifo.v,1682131929,verilog,,/home/yveswong/Projects/learning-fpga/ip_fifo/ip_fifo.srcs/sim_1/new/tb_ip_fifo.v,,ip_fifo,,,,,,,,
