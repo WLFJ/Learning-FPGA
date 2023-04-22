@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Apr 19 14:09:40 2023
+# Process ID: 59904
+# Current directory: /home/yveswong/touch_led/touch_led.runs/synth_1
+# Command line: vivado -log touch_led.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source touch_led.tcl
+# Log file: /home/yveswong/touch_led/touch_led.runs/synth_1/touch_led.vds
+# Journal file: /home/yveswong/touch_led/touch_led.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source touch_led.tcl -notrace

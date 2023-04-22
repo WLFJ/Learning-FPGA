@@ -1,0 +1,1 @@
+-wto "346884c5621040478180c6153882b8a9" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_touch_key_behav" "xil_defaultlib.tb_touch_key" "xil_defaultlib.glbl" -log "elaborate.log" 

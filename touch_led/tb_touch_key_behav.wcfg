@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_touch_key_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_touch_key" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="173534000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="146"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject type="logic" fp_name="/tb_touch_key/sys_clk">
+      <obj_property name="ElementShortName">sys_clk</obj_property>
+      <obj_property name="ObjectShortName">sys_clk</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_touch_key/sys_rst_n">
+      <obj_property name="ElementShortName">sys_rst_n</obj_property>
+      <obj_property name="ObjectShortName">sys_rst_n</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_touch_key/touch_key">
+      <obj_property name="ElementShortName">touch_key</obj_property>
+      <obj_property name="ObjectShortName">touch_key</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_touch_key/led">
+      <obj_property name="ElementShortName">led</obj_property>
+      <obj_property name="ObjectShortName">led</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_touch_key/u_touch_led/touch_key_d0">
+      <obj_property name="ElementShortName">touch_key_d0</obj_property>
+      <obj_property name="ObjectShortName">touch_key_d0</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_touch_key/u_touch_led/touch_key_d1">
+      <obj_property name="ElementShortName">touch_key_d1</obj_property>
+      <obj_property name="ObjectShortName">touch_key_d1</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="/tb_touch_key/u_touch_led/touch_en">
+      <obj_property name="ElementShortName">touch_en</obj_property>
+      <obj_property name="ObjectShortName">touch_en</obj_property>
+   </wvobject>
+</wave_config>

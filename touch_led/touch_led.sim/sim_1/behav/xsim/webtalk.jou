@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Apr 19 14:56:26 2023
+# Process ID: 66197
+# Current directory: /home/yveswong/touch_led/touch_led.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/yveswong/touch_led/touch_led.sim/sim_1/behav/xsim/xsim.dir/touch_led_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/yveswong/touch_led/touch_led.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/yveswong/touch_led/touch_led.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/yveswong/touch_led/touch_led.sim/sim_1/behav/xsim/xsim.dir/touch_led_behav/webtalk/xsim_webtalk.tcl -notrace
